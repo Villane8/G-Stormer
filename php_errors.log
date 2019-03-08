@@ -1,0 +1,120 @@
+[07-Jan-2019 21:47:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 1158
+[07-Jan-2019 21:47:08 UTC] PHP Stack trace:
+[07-Jan-2019 21:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:47:08 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:47:08 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:47:08 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:47:08 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:08 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:08 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:47:08 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:1158
+[07-Jan-2019 21:47:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 1178
+[07-Jan-2019 21:47:08 UTC] PHP Stack trace:
+[07-Jan-2019 21:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:47:08 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:47:08 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:47:08 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:47:08 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:08 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:08 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:47:08 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:1178
+[07-Jan-2019 21:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 1158
+[07-Jan-2019 21:47:53 UTC] PHP Stack trace:
+[07-Jan-2019 21:47:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:47:53 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:47:53 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:47:53 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:47:53 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:53 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:53 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:47:53 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:1158
+[07-Jan-2019 21:47:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 1178
+[07-Jan-2019 21:47:53 UTC] PHP Stack trace:
+[07-Jan-2019 21:47:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:47:53 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:47:53 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:47:53 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:47:53 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:53 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:47:53 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:47:53 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:1178
+[07-Jan-2019 21:49:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 766
+[07-Jan-2019 21:49:11 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:11 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:11 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:11 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:11 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:11 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:11 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:11 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:766
+[07-Jan-2019 21:49:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 786
+[07-Jan-2019 21:49:11 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:11 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:11 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:11 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:11 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:11 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:11 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:11 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:786
+[07-Jan-2019 21:49:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 766
+[07-Jan-2019 21:49:24 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:24 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:24 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:24 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:24 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:24 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:24 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:24 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:766
+[07-Jan-2019 21:49:24 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 786
+[07-Jan-2019 21:49:24 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:24 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:24 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:24 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:24 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:24 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:24 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:24 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:786
+[07-Jan-2019 21:49:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 766
+[07-Jan-2019 21:49:27 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:27 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:27 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:27 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:27 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:27 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:27 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:27 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:766
+[07-Jan-2019 21:49:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 786
+[07-Jan-2019 21:49:27 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:27 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:27 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:27 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:27 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:27 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:27 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:27 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:786
+[07-Jan-2019 21:49:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 766
+[07-Jan-2019 21:49:48 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:48 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:48 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:48 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:48 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:48 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:48 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:48 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:766
+[07-Jan-2019 21:49:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php on line 786
+[07-Jan-2019 21:49:48 UTC] PHP Stack trace:
+[07-Jan-2019 21:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin.php:0
+[07-Jan-2019 21:49:48 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[07-Jan-2019 21:49:48 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[07-Jan-2019 21:49:48 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[07-Jan-2019 21:49:48 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:48 UTC] PHP   6. the_champ_social_sharing_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[07-Jan-2019 21:49:48 UTC] PHP   7. require() /home/ubuntu/workspace/wp-content/plugins/super-socializer/helper.php:103
+[07-Jan-2019 21:49:48 UTC] PHP   8. in_array() /home/ubuntu/workspace/wp-content/plugins/super-socializer/admin/social_sharing.php:786
